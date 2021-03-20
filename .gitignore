@@ -2,3 +2,4 @@ blacklist-up.txt
 block-list.txt
 block.txt
 ranjanFabrication.txt
+node_modules

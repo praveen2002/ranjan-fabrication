@@ -1,0 +1,23 @@
+{
+  "name": "Ranjanfabrication.com",
+  "version": "1.0.0",
+  "description": "Welcome To Ranjan Steel Fabrication :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjanShrma/ranjan-fabrication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjanShrma/ranjan-fabrication/issues"
+  },
+  "homepage": "https://github.com/RanjanShrma/ranjan-fabrication#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
