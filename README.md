@@ -16,6 +16,10 @@
               Our Company Is Fully Equipped To Manufacture A Quality Range Of Interior Decoration As Per The 
               Customer Specific Requirements. We Have Group Of Professionals, 
               Who Have Wide Experiences And Have Expert In The Concerned Field.
+              
+              
+              
+              
   
               Under The Proper Guide Of Our Owner Mr. Santosh Kumar Sharma , We Have Become One Of The Most
               Preferred Choices Of Our Customer/clients In The Competitive Areas. He Is The Guiding 
@@ -52,7 +56,7 @@
               
               We Also Impart Them To Make Them Aware Of Latest Working  Methodologies.
   
-              Quality Assured :
+              Quality Assured 100% :
   
               Our Entire Range's Of Iron And Steel Fbrication Based Quality, And 
               We Enure Company Dedication Regarding Maintaining Them. With 
