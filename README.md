@@ -1,4 +1,4 @@
-              Welcome To Ranjan Steel Fabrication :
+              Welcome To Ranjan Steel Fabrication
               
               Established In The Year March 2003, We Are, ranjan Steel Fabrication , Is One Of The Best Organization
               Located In Dwarka, Delhi (New Delhi). <br>we Are An Individual Firm Leads In Manufactured And Works In Iron And Steel.
@@ -42,7 +42,7 @@
               4. Factories & Industries Areas.
               5. Hospitals Premises.
               6. Offices Areas.
-              7. Schools Premises.
+              
   
               Our Team :
               Our Company Has Employed An Fully Experienced And Team Of High 
