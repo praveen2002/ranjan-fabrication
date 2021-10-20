@@ -68,6 +68,3 @@
               High Temprature Proof.
               Construction.
               Durable Factor.
-              Proper Finish.
-              bhai.
-...........
