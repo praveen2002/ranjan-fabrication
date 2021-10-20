@@ -69,4 +69,3 @@
               Construction.
               Durable Factor.
               Proper Finish.
-              bhai.mmmmmm
